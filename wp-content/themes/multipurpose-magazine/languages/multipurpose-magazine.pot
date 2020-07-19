@@ -1,0 +1,914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multipurpose Magazine \n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2016-02-11 19:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: Themesglance <support@themesglance.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:12
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:16
+#: no-results.php:21
+msgid "Return to the home page"
+msgstr ""
+
+#: comments.php:18
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:28
+msgid "comments title"
+msgstr ""
+
+#: comments.php:58
+msgid "'Comments are closed."
+msgstr ""
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:14
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: no-results.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:19
+msgid "Dont worry it happens to the best of us."
+msgstr ""
+
+#: footer.php:10
+#: footer.php:12
+#: footer.php:14
+msgid "Top"
+msgstr ""
+
+#: footer.php:10
+#: footer.php:12
+#: footer.php:14
+msgid "Back to Top"
+msgstr ""
+
+#: footer.php:59
+msgid "By Themesglance"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Greetings from Themesglance!!"
+msgstr ""
+
+#: functions.php:81
+msgid "A heartful thank you for choosing Themesglance. We promise to deliver only the best to you. Please proceed towards welcome section to get started."
+msgstr ""
+
+#: functions.php:82
+msgid "About Theme"
+msgstr ""
+
+#: functions.php:89
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:90
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:99
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:100
+#: functions.php:110
+msgid "Appears on page sidebar"
+msgstr ""
+
+#: functions.php:109
+msgid "Third Column Sidebar"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:132
+msgid "Social Icon"
+msgstr ""
+
+#: functions.php:133
+msgid "Appears on top bar"
+msgstr ""
+
+#: functions.php:142
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: functions.php:143
+msgid "Appears on home page sidebar"
+msgstr ""
+
+#: functions.php:413
+msgid "Magazine WordPress Theme"
+msgstr ""
+
+#: header.php:39
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:76
+msgid "Login Button"
+msgstr ""
+
+#: header.php:111
+msgid "BUY NOW"
+msgstr ""
+
+#: header.php:184
+msgid "BREAKING NEWS /"
+msgstr ""
+
+#: header.php:194
+msgid "Menu"
+msgstr ""
+
+#: header.php:199
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:209
+msgid "Close Menu"
+msgstr ""
+
+#: image.php:34
+#: image.php:70
+#: image.php:106
+#: image.php:142
+#: image.php:185
+#: image.php:223
+#: image.php:255
+#: page.php:28
+#: template-parts/single-post:40
+#: page-template/page-with-left-sidebar.php:23
+#: page-template/page-with-right-sidebar.php:19
+msgid "Pages:"
+msgstr ""
+
+#: image.php:39
+#: image.php:75
+#: image.php:111
+#: image.php:147
+#: image.php:185
+#: image.php:223
+#: image.php:260
+msgid "Edit"
+msgstr ""
+
+#: archive.php:33
+#: archive.php:71
+#: archive.php:104
+#: archive.php:138
+#: archive.php:175
+#: archive.php:214
+#: archive.php:251
+#: index.php:29
+#: index.php:63
+#: index.php:92
+#: index.php:122
+#: index.php:155
+#: index.php:188
+#: index.php:217
+#: search.php:30
+#: search.php:65
+#: search.php:95
+#: search.php:126
+#: search.php:160
+#: search.php:196
+#: search.php:230
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:34
+#: archive.php:72
+#: archive.php:105
+#: archive.php:139
+#: archive.php:176
+#: archive.php:215
+#: archive.php:252
+#: index.php:30
+#: index.php:64
+#: index.php:93
+#: index.php:123
+#: index.php:156
+#: index.php:189
+#: index.php:218
+#: search.php:31
+#: search.php:66
+#: search.php:96
+#: search.php:127
+#: search.php:161
+#: search.php:197
+#: search.php:231
+msgid "Next page"
+msgstr ""
+
+#: archive.php:35
+#: archive.php:73
+#: archive.php:106
+#: archive.php:140
+#: archive.php:177
+#: archive.php:216
+#: archive.php:253
+#: index.php:31
+#: index.php:65
+#: index.php:94
+#: index.php:124
+#: index.php:157
+#: index.php:190
+#: index.php:219
+#: page.php:32
+#: search.php:32
+#: search.php:67
+#: search.php:97
+#: search.php:125
+#: search.php:162
+#: search.php:198
+#: search.php:232
+#: template-parts/single-post:44
+#: page-template/page-with-left-sidebar.php:27
+#: page-template/page-with-right-sidebar.php:23
+msgid "page"
+msgstr ""
+
+#: search.php:16
+#: search.php:51
+#: search.php:81
+#: search.php:112
+#: search.php:146
+#: search.php:180
+#: search.php:216
+msgid "Search Results For: %s"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: searchform.php:10
+msgid "placeholder"
+msgstr ""
+
+#: searchform.php:12
+msgid "submit button"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr ""
+
+#: template-parts/single-post:51
+msgid "Parent post link"
+msgstr ""
+
+#: template-parts/single-post:56
+msgid "Next<i class="fas fa-angle-double-right"></i>"
+msgstr ""
+
+#: template-parts/single-post:57
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/single-post:59
+msgid "<i class="fas fa-angle-double-left"></i>Previous"
+msgstr ""
+
+#: template-parts/single-post:60
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/single-post:25
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/content-audio.php:59
+#: template-parts/content-gallery.php:46
+#: template-parts/content-image.php:41
+#: template-parts/content-video.php:59
+#: template-parts/content.php:41
+#: template-parts/grid-layout.php:37
+#: template-parts/related-post.php:35
+msgid "Read Full"
+msgstr ""
+
+#: template-parts/related-post.php:7
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Global Color Settings"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "One can change complete theme global color settings on just one click."
+msgstr ""
+
+#: inc/customizer.php:156
+msgid 'Typography'
+msgstr ""
+
+#: inc/customizer.php:167
+msgid 'Paragraph Color'
+msgstr ""
+
+#: inc/customizer.php:181
+msgid 'Paragraph Fonts'
+msgstr ""
+
+#: inc/customizer.php:192
+msgid 'Paragraph Font Size'
+msgstr ""
+
+#: inc/customizer.php:204
+msgid '"a" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:218
+msgid '"a" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:229
+msgid '"li" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:243
+msgid '"li" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:254
+msgid 'h1 Color'
+msgstr ""
+
+#: inc/customizer.php:268
+msgid 'h1 Fonts'
+msgstr ""
+
+#: inc/customizer.php:280
+msgid 'h1 Font Size'
+msgstr ""
+
+#: inc/customizer.php:292
+msgid 'h2 Color'
+msgstr ""
+
+#: inc/customizer.php:306
+msgid 'h2 Fonts'
+msgstr ""
+
+#: inc/customizer.php:318
+msgid 'h2 Font Size'
+msgstr ""
+
+#: inc/customizer.php:330
+msgid 'h3 Color'
+msgstr ""
+
+#: inc/customizer.php:344
+msgid 'h3 Fonts'
+msgstr ""
+
+#: inc/customizer.php:356
+msgid 'h3 Font Size'
+msgstr ""
+
+#: inc/customizer.php:368
+msgid 'h4 Color'
+msgstr ""
+
+#: inc/customizer.php:382
+msgid 'h4 Fonts'
+msgstr ""
+
+#: inc/customizer.php:394
+msgid 'h4 Font Size'
+msgstr ""
+
+#: inc/customizer.php:406
+msgid 'h5 Color'
+msgstr ""
+
+#: inc/customizer.php:420
+msgid 'h5 Fonts'
+msgstr ""
+
+#: inc/customizer.php:432
+msgid 'h5 Font Size'
+msgstr ""
+
+#: inc/customizer.php:444
+msgid 'h6 Color'
+msgstr ""
+
+#: inc/customizer.php:458
+msgid 'h6 Fonts'
+msgstr ""
+
+#: inc/customizer.php:470
+msgid 'h6 Font Size'
+msgstr ""
+
+#: inc/customizer.php:478
+msgid "Topbar Section"
+msgstr ""
+
+#: inc/customizer.php:479
+msgid "Add Header Content here"
+msgstr ""
+
+#: inc/customizer.php:490
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Topbar Padding"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Stick header on Desktop"
+msgstr ""
+
+#: inc/customizer.php:548
+msgid "Show/Hide Search"
+msgstr ""
+
+#: inc/customizer.php:557
+msgid "Select Popular Magazine Page"
+msgstr ""
+
+#: inc/customizer.php:558
+msgid "Image Size ( 570 x 110 )"
+msgstr ""
+
+#: inc/customizer.php:568
+msgid "Add Time"
+msgstr ""
+
+#: inc/customizer.php:579
+msgid "Add Time Text"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Add Temperature"
+msgstr ""
+
+#: inc/customizer.php:601
+msgid "Add Temperature Text"
+msgstr ""
+
+#: inc/customizer.php:612
+msgid "Add Email Address"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Add Email Text"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Add Breaking News"
+msgstr ""
+
+#: inc/customizer.php:645
+msgid "Add Login Text"
+msgstr ""
+
+#: inc/customizer.php:656
+msgid "Add Login Link"
+msgstr ""
+
+#: inc/customizer.php:664
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer.php:676
+msgid "Show / Hide slider"
+msgstr ""
+
+#: inc/customizer.php:686
+msgid "Show / Hide Slider Title"
+msgstr ""
+
+#: inc/customizer.php:696
+msgid "Show / Hide Slider Content"
+msgstr ""
+
+#: inc/customizer.php:706
+msgid "Show / Hide Slider Tags"
+msgstr ""
+
+#: inc/customizer.php:716
+msgid "Show / Hide Slider Date"
+msgstr ""
+
+#: inc/customizer.php:726
+msgid "Show / Hide Slider Time"
+msgstr ""
+
+#: inc/customizer.php:750
+msgid "Select Category to display Latest Post"
+msgstr ""
+
+#: inc/customizer.php:763
+msgid "Slider Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:780
+msgid "Slider Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:800
+msgid "Top Trending News"
+msgstr ""
+
+#: inc/customizer.php:801
+msgid "Add Top Trending sections below."
+msgstr ""
+
+#: inc/customizer.php:810
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:835
+msgid "Select Category to display Latest Post"
+msgstr ""
+
+#: inc/customizer.php:841
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:848
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:853
+msgid "Select default layout"
+msgstr ""
+
+#: inc/customizer.php:872
+msgid "Show / Hide Date"
+msgstr ""
+
+#: inc/customizer.php:882
+msgid "Show / Hide Author"
+msgstr ""
+
+#: inc/customizer.php:892
+msgid "Show / Hide Comments"
+msgstr ""
+
+#: inc/customizer.php:897
+#: inc/customizer.php:907
+msgid "Excerpt Content"
+msgstr ""
+
+#: inc/customizer.php:902
+msgid "Blog Post Content Type"
+msgstr ""
+
+#: inc/customizer.php:905
+msgid "No Content"
+msgstr ""
+
+#: inc/customizer.php:906
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer.php:916
+msgid "Blog Post Excerpt Number (Max 50)"
+msgstr ""
+
+#: inc/customizer.php:933
+msgid "Post Excerpt Suffix"
+msgstr ""
+
+#: inc/customizer.php:941
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/customizer.php:951
+msgid "Show / Hide Single Post Tags"
+msgstr ""
+
+#: inc/customizer.php:961
+msgid "Show / Hide Related Posts"
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/customizer.php:971
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/customizer.php:980
+msgid "Related Posts Count"
+msgstr ""
+
+#: inc/customizer.php:998
+msgid "Related Posts must be shown:"
+msgstr ""
+
+#: inc/customizer.php:1000
+msgid "By Categories"
+msgstr ""
+
+#: inc/customizer.php:1001
+msgid "By Tags"
+msgstr ""
+
+#: inc/customizer.php:1006
+msgid "Button Options"
+msgstr ""
+
+#: inc/customizer.php:1015
+msgid "Blog Post Button Label"
+msgstr ""
+
+#: inc/customizer.php:1025
+msgid "Button Padding"
+msgstr ""
+
+#: inc/customizer.php:507
+#: inc/customizer.php:1035
+#: inc/customizer.php:1317
+#: inc/customizer.php:1399
+#: inc/customizer.php:1495
+#: inc/customizer.php:1625
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:522
+#: inc/customizer.php:1051
+#: inc/customizer.php:1332
+#: inc/customizer.php:1414
+#: inc/customizer.php:1510
+#: inc/customizer.php:1640
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer.php:1067
+#: inc/customizer.php:1347
+#: inc/customizer.php:1429
+#: inc/customizer.php:1477
+#: inc/customizer.php:1525
+#: inc/customizer.php:1589
+#: inc/customizer.php:1659
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:1083
+#: inc/customizer.php:1362
+#: inc/customizer.php:1444
+#: inc/customizer.php:1469
+#: inc/customizer.php:1478
+#: inc/customizer.php:1540
+#: inc/customizer.php:1581
+#: inc/customizer.php:1590
+#: inc/customizer.php:1660
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:1099
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer.php:1101
+#: inc/customizer.php:1379
+#: inc/customizer.php:1461
+#: inc/customizer.php:1557
+#: inc/customizer.php:1672
+msgid "Measurement is in pixel."
+msgstr ""
+
+#: inc/customizer.php:1111
+msgid "Advance Options"
+msgstr ""
+
+#: inc/customizer.php:1122
+msgid "Enable / Disable Preloader"
+msgstr ""
+
+#: inc/customizer.php:1131
+msgid "Preloader Color"
+msgstr ""
+
+#: inc/customizer.php:1141
+msgid "Preloader Background Color"
+msgstr ""
+
+#: inc/customizer.php:1147
+#: inc/customizer.php:1155
+msgid "Square"
+msgstr ""
+
+#: inc/customizer.php:1152
+msgid "Preloader Type"
+msgstr ""
+
+#: inc/customizer.php:1156
+msgid "Circle"
+msgstr ""
+
+#: inc/customizer.php:1161
+#: inc/customizer.php:1169
+msgid "Default Theme"
+msgstr ""
+
+#: inc/customizer.php:1166
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/customizer.php:1170
+msgid "Container Theme"
+msgstr ""
+
+#: inc/customizer.php:1171
+msgid "Box Container Theme"
+msgstr ""
+
+#: inc/customizer.php:1180
+msgid "Tags Count"
+msgstr ""
+
+#: inc/customizer.php:1193
+msgid "404 Page & Search Result Settings"
+msgstr ""
+
+#: inc/customizer.php:1203
+msgid "404 Title"
+msgstr ""
+
+#: inc/customizer.php:1213
+msgid "404 button Label"
+msgstr ""
+
+#: inc/customizer.php:1223
+msgid "No Search Result Title"
+msgstr ""
+
+#: inc/customizer.php:1233
+msgid "No Search Result Text"
+msgstr ""
+
+#: inc/customizer.php:1240
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/customizer.php:1250
+msgid "Enable Shop Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1260
+msgid "Enable Single Product Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1269
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:1284
+msgid "Products Per Row"
+msgstr ""
+
+#: inc/customizer.php:1300
+msgid "Show / Hide product border"
+msgstr ""
+
+#: inc/customizer.php:1308
+msgid "Product Padding"
+msgstr ""
+
+#: inc/customizer.php:1377
+msgid "Product Border Radius"
+msgstr ""
+
+#: inc/customizer.php:1390
+msgid "Product Button Padding"
+msgstr ""
+
+#: inc/customizer.php:1459
+msgid "Product Button Border Radius"
+msgstr ""
+
+#: inc/customizer.php:1474
+msgid "Product Sale Position"
+msgstr ""
+
+#: inc/customizer.php:1486
+msgid "Product Sale Padding"
+msgstr ""
+
+#: inc/customizer.php:1555
+msgid "Product Sale Border Radius"
+msgstr ""
+
+#: inc/customizer.php:1566
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer.php:1576
+msgid 'Show / Hide Back To Top'
+msgstr ""
+
+#: inc/customizer.php:1586
+msgid 'Back to Top Alignment'
+msgstr ""
+
+#: inc/customizer.php:1591
+#: inc/customizer.php:1661
+msgid 'Center'
+msgstr ""
+
+#: inc/customizer.php:1601
+msgid "No. of Footer columns"
+msgstr ""
+
+#: inc/customizer.php:1603
+msgid "Select the number of footer columns and add your widgets in the footer."
+msgstr ""
+
+#: inc/customizer.php:1605
+msgid "One column"
+msgstr ""
+
+#: inc/customizer.php:1606
+msgid "Two columns"
+msgstr ""
+
+#: inc/customizer.php:1607
+msgid "Three columns"
+msgstr ""
+
+#: inc/customizer.php:1608
+msgid "Four columns"
+msgstr ""
+
+#: inc/customizer.php:1616
+msgid "Copyright Padding"
+msgstr ""
+
+#: inc/customizer.php:1656
+msgid "Copyright Alignment"
+msgstr ""
+
+#: inc/customizer.php:1670
+msgid "Copyright Font Size"
+msgstr ""
+
+#: inc/customizer.php:1684
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:1685
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: inc/customizer.php:1804
+msgid "Multipurpose Magazine Pro"
+msgstr ""
+
+#: inc/customizer.php:1805
+msgid "Go Pro"
+msgstr ""

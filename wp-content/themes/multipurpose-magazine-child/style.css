@@ -1,0 +1,29 @@
+/*
+Theme Name: Multipurpose Magazine-Child
+Theme URI: https://www.themesglance.com/themes/free-wordpress-magazine-theme/
+Author: Themesglance
+Author URI: https://www.themesglance.com/
+Description: Multipurpose Magazine is a vibrant, energetic, feature-full and highly organized WordPress magazine theme which is made to be used by online magazines, newspapers, editors, journalists, publishing units, bloggers, informative sites, educational websites, content writers, digital news media and other similar websites. It is flexible to be used for portfolio website. This modern theme is filled with many advanced and high-level features and functions to design a top performing website. Banners and sliders are provided to give it a stylish look. You get unlimited colour options and numerous Google fonts to make it more appealing and eye-catching. Social media is an important part of any news and magazine website and that is why so many popular and trending social networking platforms are included in the theme. Its Bootstrap framework facilitates its easy usage. This magazine WordPress theme is totally responsive, compatible with various browsers, multilingual and optimized for search engines. It supports multiple post formats like image, video, audio etc. Multipurpose Magazine shows sharp and crisp images on retina ready devices enhancing overall website look. It has a great page loading speed. It can be deeply customized through theme customizer to suit your brand and give it a personalized touch. Demo: https://themesglance.com/multipurpose-magazine-pro/
+Version: 0.4.5
+Tested up to: 5.4.1
+Requires PHP: 7.2.14
+License: GNU General Public License
+License URI: license.txt
+Text Domain: multipurpose-magazine-child
+Template:multipurpose-magazine
+Tags: left-sidebar, right-sidebar, one-column, two-columns, three-columns, four-columns, grid-layout, custom-background, custom-logo, custom-menu, custom-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, rtl-language-support, blog, news, e-commerce
+
+Multipurpose Magazine WordPress Theme has been created by Themesglance(themesglance.com), 2018.
+Multipurpose Magazine WordPress Theme is released under the Terms of GNU GPL
+*/
+
+#header .menu-sec {
+    background: darkcyan;
+}
+.blogbtn a {
+    color: #000;
+    background: darkcyan;
+}
+#sidebar input[type="submit"] {
+    background: darkcyan;
+}
